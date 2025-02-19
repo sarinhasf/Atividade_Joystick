@@ -59,7 +59,7 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
  
 <table>
   <tr>
-    <td align="center"><img style="" src="https://avatars.githubusercontent.com/u/143294885?v=4" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
+    <td align="center"><img style="" src="[https://avatars.githubusercontent.com/u/143294885?v=4](https://youtube.com/shorts/8B1SA-zDU0M?si=6rETd9atCEG_4cFN)" width="100px;" alt=""/><br /><sub><b> Sara Souza </b></sub></a><br />👨‍💻</a></td>
 </table>
 
 ## Link do video de apresentação: 
